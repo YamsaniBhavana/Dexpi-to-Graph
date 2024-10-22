@@ -4,6 +4,7 @@
 The converter is available as an application for Python. A application for Windows 10 will be available soon.
 
 Python installation
+
 Install Python (anaconda) from https://www.anaconda.com/products/individual
 Load the following python libraries
 NetworkX (vers. 2.4) 
