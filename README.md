@@ -7,7 +7,7 @@ Python installation
 
 Install Python (anaconda) from https://www.anaconda.com/products/individual
 
-Load the following python libraries
+->Load the following python libraries
 
 NetworkX (vers. 2.4) 
 
@@ -41,4 +41,5 @@ The Dexpi-to-Graph Converter consists a graphical user interface (GUI). On the u
 The folder DEXPI_examples containts two different DEXPI P&IDs:
 
 A laboratory distillation plant P&ID_distillation_laboratory 
+
 Textbooks example distillation plant P&ID_distillation 
