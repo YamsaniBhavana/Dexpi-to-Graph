@@ -26,7 +26,7 @@ lxml (vers. 4.5.2)
 openpyxl (vers. 3.0.9) 
 
 
-1.Download the folder dexpitograph_python.
+1.Download the folder dexpitograph_python from Dexpi-to-Graph python folder.
 
 2.Running the script dexpitograph.py starts the converter.
 
